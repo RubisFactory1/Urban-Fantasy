@@ -29,6 +29,12 @@
 -   Offrir une expérience stratégique fun et équilibrée
 -   Construire un univers narratif riche sur le thème *Urban Fantasy*
 
+***
+
+![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Rare/DrakeThompson.png "Carte Urban Drake Yhomson").
+
+***
+
 ## 3. Public cible
 
 -   Joueurs occasionnels et réguliers aimant les jeux de cartes
