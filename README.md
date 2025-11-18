@@ -4,8 +4,6 @@
 
 ***
 
-***
-
 ![Logos](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Logos/LogosUrbanFantaisy.png "Logos Urban Fantaisy")
 
 ***
