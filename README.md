@@ -1,7 +1,16 @@
 # Cahier des Charges --- Urban Fantasy
 
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
+***
 
 ![Logos](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Logos/LogosUrbanFantaisy.png "Logos Urban Fantaisy")
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation2")
 
 ***
 
@@ -17,7 +26,15 @@
 
 ***
 
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
 ![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Rare/LianaEdinbeker.png "Carte Urban Liana Edinbeker").
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
 
 ***
 
@@ -31,7 +48,15 @@
 
 ***
 
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
 ![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Rare/DrakeThompson.png "Carte Urban Drake Yhomson").
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
 
 ***
 
