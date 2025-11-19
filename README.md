@@ -50,7 +50,7 @@
 
 ***
 
-![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Rare/DrakeThompson.png "Carte Urban Drake Yhomson").
+![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Rare/DrakeThompson.png "Carte Urban Drake Thomson").
 
 ***
 
@@ -65,6 +65,21 @@
 -   Membres du serveur Discord Rubis Factory
 -   Créateurs, artistes et développeurs souhaitant contribuer
 
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
+![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Rare/IvanofCrowell.png "Carte Urban Ivanof Crowell").
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
 ## 4. Fonctionnalités principales
 
 ### 4.1 Système de cartes
@@ -76,6 +91,12 @@
 -   Thèmes urban fantasy : créatures, mages, artefacts modernes
     enchantés...
 
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
 ### 4.2 Deck & Combat
 
 -   Création de decks de 5 cartes\
@@ -84,17 +105,35 @@
 -   Animations simples des combats (ReactJS)\
 -   Historique des combats
 
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
 ### 4.3 Progression
 
 -   Système d'expérience et de niveaux\
 -   Déblocage de cartes via récompenses\
 -   Quêtes journalières / hebdomadaires
 
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
 ### 4.4 Histoire
 
 -   Campagne scénarisée\
 -   Missions progressives avec dialogues et choix\
 -   Chapitres ajoutés régulièrement par la communauté
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
 
 ### 4.5 Interface Utilisateur (UI/UX)
 
@@ -103,10 +142,30 @@
     Boutique (monnaie du jeu), Profil\
 -   Responsive : PC, tablette, mobile
 
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
 ### 4.6 Composante communautaire
 
 -   Intégration Discord (OAuth, logs, annonces)\
 -   Zone de contribution (propositions de cartes, votes...)
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
+![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Rare/ElinaAnderson.png "Carte Urban Ivanof Crowell").
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
 
 ## 5. Contraintes techniques
 
@@ -116,11 +175,26 @@
 -   Hébergement : cloud ou communautaire\
 -   Code open-source (GitHub), contributions via pull requests
 
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
+![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Rare/NinaAnderson.png "Carte Urban Ivanof Crowell").
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
 ## 6. Organisation du développement
 
 -   Gestion via Discord & GitHub Projects\
 -   Règles de contribution : style, review obligatoire\
 -   Mises à jour pilotées par la communauté Rubis Factory
+
 
 ## 7. Livrables attendus
 
@@ -129,6 +203,8 @@
 -   Système de cartes complet\
 -   Chapitre 1 & 5 de l'histoire\
 -   Documentation technique
+
+
 
 ## 8. Évolutions futures
 
