@@ -195,6 +195,19 @@
 -   Règles de contribution : style, review obligatoire\
 -   Mises à jour pilotées par la communauté Rubis Factory
 
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
+![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Mythique/LethiaHawthorne.png "Carte Urban Ivanof Crowell").
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")e
+
+***
 
 ## 7. Livrables attendus
 
