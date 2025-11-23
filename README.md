@@ -8,7 +8,7 @@
 
 ***
 
-![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation2")
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
 
 ***
 
@@ -159,7 +159,7 @@
 
 ***
 
-![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Rare/ElinaAnderson.png "Carte Urban Ivanof Crowell").
+![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Rare/ElinaAnderson.png "Carte Urban Elina Anderson").
 
 ***
 
@@ -181,7 +181,7 @@
 
 ***
 
-![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Rare/NinaAnderson.png "Carte Urban Ivanof Crowell").
+![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Rare/NinaAnderson.png "Carte Urban Nina Anderson").
 
 ***
 
@@ -201,7 +201,7 @@
 
 ***
 
-![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Mythique/LethiaHawthorne.png "Carte Urban Ivanof Crowell").
+![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Mythique/LethiaHawthorne.png "Carte Urban Lethia Hawthorne").
 
 ***
 
@@ -218,6 +218,19 @@
 -   Documentation technique
 
 
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
+![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Mythique/RubisDesmon.png "Carte Urban Rubis Desmon").
+
+***
+
+![Separation](API/Nomade1/opjfzepfjçzieàfj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Mythique/RubisDesmon.png "Separation1")
+
+***
 
 ## 8. Évolutions futures
 
@@ -225,3 +238,54 @@
 -   Nouveaux chapitres narratifs\
 -   Événements saisonniers\
 -   Extensions de cartes
+
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
+![Carte](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Mythique/AsmodeeDelezie.png "Carte Urban Asmodée Delezie").
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
+
+***
+
+## 9. annexes
+
+### 9.1 Développement & Interface
+
+- [Interface](interface.md)
+- [Développement](developpement.md)
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")e
+
+***
+
+### 9.2 Lore et Histoire
+
+ - [Histoire globale](histoire_globale.md)
+ - [Deck de cartes](deck_de_cartes.md)
+ - [Histoire des cartes](histoire_des_cartes.md)
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")e
+
+***
+
+ ### 9.3 Politique de confidentialité
+
+ - [Conditions d’utilisation](conditions_utilisation.md)
+ - [Deck de personnes en situation de trouble dissociatif de l’identité](deck_trouble_dissociatif_identite.md)
+
+***
+
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")e
+
+***
