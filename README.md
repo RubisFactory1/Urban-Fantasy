@@ -228,7 +228,7 @@
 
 ***
 
-![Separation](API/Nomade1/opjfzepfjçzieàfj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Card/Mythique/RubisDesmon.png "Separation1")
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
 
 ***
 
@@ -263,7 +263,7 @@
 
 ***
 
-![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")e
+![Separation](https://rubisfactorycloud.netlify.app/API/Nomade1/opjfzepfj%C3%A7zie%C3%A0fj/56+546q4dfd6zae48/suicbhuizfhczuiaf/UrbanFantaisy/Separation/Separation1.png "Separation1")
 
 ***
 
